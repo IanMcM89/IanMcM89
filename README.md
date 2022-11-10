@@ -4,6 +4,14 @@
 
 I'm a results driven Full Stack Developer with experience using frontend and backend technologies. I thrive when challenged to problem solve with management, teams and in critical situations. I'm passionate about creating applications that integrate functionality with aesthetics to seamlessly enhance my users' UI/UX experience. As a visual learner, I'm excited about front-end development because it allows me to express my problem-solving skills through creative logic and build solutions that visualize my thought process.
 
+🔹 🔭 I’m currently working on data structures and algorithms practice
+
+🔹 💬 Ask me about anything!
+
+🔹 😄 Pronouns: he/him
+
+🔹 ⚡ Fun fact: I'm currently trsnsitioning from the Maritime Industry to Tech!
+
 ## Technical Projects
 
 🔹 **GeoPlanner** - [Repo](https://github.com/IanMcM89/phase-5-project) | [Demo](https://youtu.be/KRcu0gwLv5U)
