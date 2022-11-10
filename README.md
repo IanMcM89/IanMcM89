@@ -1,36 +1,20 @@
-![Blue Minimalist Profile LinkedIn Banner (1584 × 396 px) (4)](https://user-images.githubusercontent.com/85708755/200971756-0a398f94-98df-42f7-9c6b-8d2acfcc4608.png)
+![Blue Minimalist Profile LinkedIn Banner (1584 × 396 px) (5)](https://user-images.githubusercontent.com/85708755/201039177-17505e16-8d08-4b64-b0c7-0116476146c4.png)
 
-# Hi There! I'm Ian! 👋
+# Hi There! I'm Ian! [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="25px" alt="LinkedIn">](https://www.linkedin.com/in/ian-mcmanus-bs/)
 
-Innovative Full Stack Developer with experience using frontend and backend technologies. I thrive when challenged to problem solve with management, teams and in critical situations. I'm passionate about creating applications that integrate functionality with aesthetics to seamlessly enhance my users' UI/UX experience. As a visual learner, I'm excited about front-end development because it allows me to express my problem-solving skills through creative logic and build solutions that visualize my thought process.
+I'm a results driven Full Stack Developer with experience using frontend and backend technologies. I thrive when challenged to problem solve with management, teams and in critical situations. I'm passionate about creating applications that integrate functionality with aesthetics to seamlessly enhance my users' UI/UX experience. As a visual learner, I'm excited about front-end development because it allows me to express my problem-solving skills through creative logic and build solutions that visualize my thought process.
 
-## Skills 💻
+## Technical Projects
 
-* JavaScript (ES6)
-* React.js
-* Redux.js
-* Ruby on Rails
-* HTML
-* CSS
-* Git/Github
-* PostgreSQL
-* Object-Oriented Programming (OOP)
+🔹 **GeoPlanner** - [Repo](https://github.com/IanMcM89/phase-5-project) | [Demo](https://youtu.be/KRcu0gwLv5U)
 
-## Projects 🎨
+🔹 **Fitness365** - [Repo](https://github.com/IanMcM89/phase-4-project) | [Demo](https://youtu.be/U8gvPUC5j-c)
 
-🔹 **GeoPlanner** - [GitHub](https://github.com/IanMcM89/phase-5-project) | Demo
+🔹 **MyRecipes** - [Repo](https://github.com/IanMcM89/phase-3-project) | [Demo](https://youtu.be/zhUKQEJCpx0)
 
-An event planning application developed using Object Oriented Programming (OOP) that allows users to query geographic locations and use retrieved data to post social events that friends can view on an interactive map.
+## Languages and Skills
 
-🔹 **Fitness365** - Github | Demo
-
-A database of weighted and body-weight exercises that utilizes an interactive image map to retrieve exercise information.
-
-🔹 **MyRecipes** - Github | Demo
-
-MyRecipes is my personal collection of easy to use recipes organized under six protein based categories.
-
-## Get in Touch 🌐
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMcM89&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IanMcM89/IanMcM89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
