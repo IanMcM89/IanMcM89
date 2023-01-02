@@ -1,6 +1,7 @@
-![Blue Minimalist Profile LinkedIn Banner (1584 × 396 px) (5)](https://user-images.githubusercontent.com/85708755/201039177-17505e16-8d08-4b64-b0c7-0116476146c4.png)
+![Blue Minimalist Profile LinkedIn Banner (1584 × 396 px) (8)](https://user-images.githubusercontent.com/85708755/210275664-6ff5e662-6697-4b51-8207-f1eb5705541e.png)
 
-# Hi There! I'm Ian! [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="20px" alt="LinkedIn">](https://www.linkedin.com/in/ian-mcmanus-bs/)
+# Hi There! I'm Ian! [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="20px" alt="LinkedIn">](![Blue Minimalist Profile LinkedIn Banner (1584 × 396 px) (8)](https://user-images.githubusercontent.com/85708755/210275640-abaa0f31-e81d-4a4d-9ddc-cf315b8aa75c.png)
+https://www.linkedin.com/in/ian-mcmanus-bs/)
 
 I'm a results driven Full Stack Developer with experience using frontend and backend technologies. I thrive when challenged to problem solve with management, teams and in critical situations. I'm passionate about creating applications that integrate functionality with aesthetics to seamlessly enhance my users' UI/UX experience. As a visual learner, I'm excited about front-end development because it allows me to express my problem-solving skills through creative logic and build solutions that visualize my thought process.
 
